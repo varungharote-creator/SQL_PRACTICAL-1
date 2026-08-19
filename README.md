@@ -5,7 +5,9 @@ A collection of beginner-friendly **MySQL projects** created to practice databas
 **Projects** 
 
 
-1]**table**
+1]**table**  
+
+
 it was trial base table to perform basic syntax
 
  2]**Student & Marks Management**
