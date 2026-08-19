@@ -5,10 +5,10 @@ A collection of beginner-friendly **MySQL projects** created to practice databas
 **Projects** 
 
 
-**table**
+1]**table**
 it was trial base table to perform basic syntax
 
- **Student & Marks Management**
+ 2]**Student & Marks Management**
 
 Includes:
 
@@ -18,7 +18,7 @@ Includes:
 * Automatic grade calculation
 * Pass/Fail status
 
- **College Database Management**
+ 3]**College Database Management**
 
 Includes:
 
@@ -29,7 +29,7 @@ Includes:
 * Faculty
 * Primary and Foreign Key relationships
 
- **Hospital Database Management**
+ 4]**Hospital Database Management**
 
 Includes:
 
